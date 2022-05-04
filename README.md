@@ -12,6 +12,7 @@ Space Cream é o 3° e 4° desafio do Stage 03 do programa Explorer | Rockeseat.
 <div align="center">
    <p>
     O Desafio tem como principal objetivo realizar a construção de uma página responsiva com a técnica mobile first totalmente do zero, apenas baseado em um protótipo passado pelo Figma, utilizando os conhecimentos adquiridos nas aulas do nível   03. 
+     <br/>
     Agradecimentos infinitos a RocketSeat e ao Mestre <a href="https://github.com/maykbrito">Mayk Brito</a>.</p>
   </p>
 </div>
