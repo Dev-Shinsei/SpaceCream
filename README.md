@@ -18,7 +18,7 @@ Space Cream é o 3° e 4° desafio do Stage 03 do programa Explorer | Rockeseat.
 </div>
  
   
-## 🔗 Link da aplicação no ar:
+## 🔗 Link da aplicação no ar: https://sorvetinhos.netlify.app/
   
 ## :rocket: Tecnologias
 
