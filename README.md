@@ -2,27 +2,26 @@
   Space Cream
 </h1>
 
-<h2 align="center" >Descrição do Projeto</h2>
+<h2 align="center" >Project Description</h2>
 <p align="center">
-Space Cream é o 3° e 4° desafio do Stage 03 do programa Explorer | Rockeseat.
-
+Space Cream it's the 3rd challenge of the Stage 03 Explorer Program by RocketSeat.
 </p>
 </br>
 
 <div align="center">
    <p>
-    O Desafio tem como principal objetivo realizar a construção de uma página responsiva com a técnica mobile first totalmente do zero, apenas baseado em um protótipo passado pelo Figma, utilizando os conhecimentos adquiridos nas aulas do nível   03. 
+    The main goal of the challenge is to build a responsive page with mobile first technique from scratch, only based on the Figma Layout, using the gained knowledge in the level 03 classes. 
      <br/>
-    Agradecimentos infinitos a RocketSeat e ao Mestre <a href="https://github.com/maykbrito">Mayk Brito</a>.</p>
+    All thanks to RocketSeat and the Legend himself, <a href="https://github.com/maykbrito">Mayk Brito</a>.</p>
   </p>
 </div>
  
   
-## 🔗 Link da aplicação no ar: https://sorvetinhos.netlify.app/
+## 🔗 Live Application Link: https://sorvetinhos.netlify.app/
   
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias e técnicas:
+This project was built with the following technologies and techniques:
 
 ✔️ HTML
 
@@ -37,8 +36,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e técnicas:
 ✔️ Media Queries
 
 <a href="https://github.com/Dev-Shinsei">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61604214?v=4" width="100px;" alt="homem utilizando mascara facial e oculos tirando foto em um espelho de um elevador com seu celular a mostra"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61604214?v=4" width="100px;" alt="Image of Carlos Gomes"/>
  <br />
  <sub><b>Carlos Gomes</b></sub></a> <a href="https://github.com/Dev-Shinsei" title="Github">🚀</a>
 
-Feito com ❤️ por Carlos Gomes 👋
+Made with ❤️ by Carlos Gomes 👋
